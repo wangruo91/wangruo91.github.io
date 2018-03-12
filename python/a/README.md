@@ -1,23 +1,26 @@
+## Background.  
+* Python's history.  
+* Python's interpreter & GIL.   
+* Python's application scenarios.   
+<div align="center">  
+  <img src="guido.png"><br><br>  
+</div>  
+
 ## How to use Python Interpreter.  
 * Interactive Mode  
 ```shell
-$ python
+$ python3
 ```
 ```python
 >>> print('Hello, world!')
 Hello, world!
 ```
-* Non-Argument Mode  
+* Script Mode  
+```shell
+$ python3 app.py
+```
 ```python
 print('Hello, world!')
-```
-* Argument Mode  
-```python
-import sys
-
-if __name__ == '__main__':
-    if(len(sys.argv) > 1):
-        print('Hello, ' + sys.argv[1])
 ```
   
 ## How to use pip.  
