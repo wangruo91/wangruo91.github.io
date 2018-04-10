@@ -19,6 +19,7 @@
 * [theano](http://deeplearning.net/software/theano/index.html)     
 
 ## Examples.    
+* Ensemble.     
 * Probabilistic Graphical Model(PGM).     
 * Recurrent Neural Networks(RNN).
 * Convolutional Neural Networks(CNN).
