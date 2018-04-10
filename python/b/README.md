@@ -13,6 +13,7 @@
 * [hmmlearn](http://hmmlearn.readthedocs.io/en/latest/)    
 * [tensorflow](https://www.tensorflow.org/)    
 * [keras](https://keras.io/)    
+* [Caffe](http://caffe.berkeleyvision.org/)     
 * [PyTorch](http://pytorch.org/)    
 * [CNTK](https://docs.microsoft.com/zh-cn/cognitive-toolkit/)     
 * [theano](http://deeplearning.net/software/theano/index.html)     
