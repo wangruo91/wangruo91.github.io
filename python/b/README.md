@@ -9,10 +9,13 @@
 <div align="center">  
   <img src="sklearn.png"><br><br>  
 </div>  
-
+    
+* [hmmlearn](http://hmmlearn.readthedocs.io/en/latest/)    
 * [tensorflow](https://www.tensorflow.org/)    
 * [keras](https://keras.io/)    
-* [hmmlearn](http://hmmlearn.readthedocs.io/en/latest/)    
+* [PyTorch](http://pytorch.org/)    
+* [CNTK](https://docs.microsoft.com/zh-cn/cognitive-toolkit/)     
+* [theano](http://deeplearning.net/software/theano/index.html)     
 
 ## Examples.  
 * Recurrent Neural Networks(RNN).
