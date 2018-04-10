@@ -18,7 +18,8 @@
 * [CNTK](https://docs.microsoft.com/zh-cn/cognitive-toolkit/)     
 * [theano](http://deeplearning.net/software/theano/index.html)     
 
-## Examples.  
+## Examples.    
+* Probabilistic Graphical Model(PGM).     
 * Recurrent Neural Networks(RNN).
 * Convolutional Neural Networks(CNN).
 
