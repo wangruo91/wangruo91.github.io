@@ -19,10 +19,9 @@
 * [theano](http://deeplearning.net/software/theano/index.html)     
 
 ## Examples.    
-* Ensemble.     
-* Probabilistic Graphical Model(PGM).     
-* Recurrent Neural Networks(RNN).
+* Ensemble(AdaBoost).     
 * Convolutional Neural Networks(CNN).
+* Recurrent Neural Networks([LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)).
 
 ## Homework.  
 * Build a model with Recurrent Neural Networks(RNN) to predict the stock price of [Citigroup Inc.](https://finance.yahoo.com/quote/c?p=c).
